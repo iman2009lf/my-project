@@ -1,0 +1,27 @@
+body {
+    font-family: arial,sans-serif;
+    margin:0;
+    background-color: bisque;
+
+}
+
+header, footer{
+    background-color:red;
+    color: azure;
+    padding: 25px;
+    text-align:  center;
+}
+
+
+section{
+    padding: 25px;
+
+}
+div{
+    display: flex;
+    justify-self: center;
+}
+
+H1,h2{
+    color: aliceblue;
+}
